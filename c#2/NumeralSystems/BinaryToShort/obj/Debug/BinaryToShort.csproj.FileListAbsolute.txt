@@ -1,0 +1,1 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToShort\bin\Debug\BinaryToShort.exe.config

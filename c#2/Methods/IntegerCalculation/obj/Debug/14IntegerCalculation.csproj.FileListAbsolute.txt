@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\IntegerCalculation\bin\Debug\IntegerCalculation.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\IntegerCalculation\bin\Debug\IntegerCalculation.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\IntegerCalculation\bin\Debug\IntegerCalculation.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\IntegerCalculation\obj\Debug\14IntegerCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\IntegerCalculation\obj\Debug\IntegerCalculation.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\IntegerCalculation\obj\Debug\IntegerCalculation.pdb

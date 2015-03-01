@@ -1,0 +1,3 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\DayOfWeek\obj\Debug\DayOfWeek.pdb

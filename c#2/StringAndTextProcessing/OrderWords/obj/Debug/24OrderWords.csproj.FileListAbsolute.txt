@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\OrderWords\bin\Debug\OrderWords.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\OrderWords\bin\Debug\OrderWords.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\OrderWords\bin\Debug\OrderWords.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\OrderWords\obj\Debug\OrderWords.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\OrderWords\obj\Debug\OrderWords.pdb

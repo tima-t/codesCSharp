@@ -1,0 +1,6 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\MinMaxSumAverageOfNnumbers\bin\Debug\MinMaxSumAverageOfNnumbers.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\MinMaxSumAverageOfNnumbers\bin\Debug\MinMaxSumAverageOfNnumbers.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\MinMaxSumAverageOfNnumbers\bin\Debug\MinMaxSumAverageOfNnumbers.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\MinMaxSumAverageOfNnumbers\obj\Debug\03MinMaxSumAverageOfNnumbers.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\MinMaxSumAverageOfNnumbers\obj\Debug\MinMaxSumAverageOfNnumbers.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\MinMaxSumAverageOfNnumbers\obj\Debug\MinMaxSumAverageOfNnumbers.pdb

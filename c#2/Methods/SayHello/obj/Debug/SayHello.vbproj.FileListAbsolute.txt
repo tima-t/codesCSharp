@@ -1,0 +1,1 @@
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\SayHello\bin\Debug\SayHello.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

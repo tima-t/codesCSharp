@@ -1,0 +1,5 @@
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

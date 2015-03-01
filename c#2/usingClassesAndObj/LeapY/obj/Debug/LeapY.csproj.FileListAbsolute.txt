@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\LeapY\bin\Debug\LeapY.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\LeapY\bin\Debug\LeapY.exe
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\LeapY\bin\Debug\LeapY.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\LeapY\obj\Debug\LeapY.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\LeapY\obj\Debug\LeapY.exe
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\LeapY\obj\Debug\LeapY.pdb

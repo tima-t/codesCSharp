@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb

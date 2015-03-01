@@ -1,0 +1,3 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\obj\Debug\EmployeeData.pdb

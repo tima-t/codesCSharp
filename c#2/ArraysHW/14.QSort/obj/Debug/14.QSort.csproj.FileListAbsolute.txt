@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ArraysHW\14.QSort\bin\Debug\14.QSort.exe
+C:\Users\Admin\Desktop\ArraysHW\14.QSort\bin\Debug\14.QSort.pdb
+C:\Users\Admin\Desktop\ArraysHW\14.QSort\obj\Debug\14.QSort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\14.QSort\obj\Debug\14.QSort.exe
+C:\Users\Admin\Desktop\ArraysHW\14.QSort\obj\Debug\14.QSort.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\14.QSort\obj\Debug\14.QSort.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\14.QSort\obj\Debug\14.QSort.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\14.QSort\bin\Debug\14.QSort.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\14.QSort\bin\Debug\14.QSort.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\14.QSort\obj\Debug\14.QSort.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\14.QSort\obj\Debug\14.QSort.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\14.QSort\bin\Debug\14.QSort.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\14.QSort\bin\Debug\14.QSort.pdb

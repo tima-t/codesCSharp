@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\SelectionSort\bin\Debug\SelectionSort.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\SelectionSort\bin\Debug\SelectionSort.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\SelectionSort\bin\Debug\SelectionSort.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\SelectionSort\obj\Debug\07SelectionSort.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\SelectionSort\obj\Debug\SelectionSort.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\SelectionSort\obj\Debug\SelectionSort.pdb

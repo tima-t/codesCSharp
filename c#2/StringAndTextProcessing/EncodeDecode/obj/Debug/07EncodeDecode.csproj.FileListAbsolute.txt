@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb

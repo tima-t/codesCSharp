@@ -1,0 +1,6 @@
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\LargerThanNeighbours\obj\Debug\05LargerThanNeighbours.csprojResolveAssemblyReference.cache
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

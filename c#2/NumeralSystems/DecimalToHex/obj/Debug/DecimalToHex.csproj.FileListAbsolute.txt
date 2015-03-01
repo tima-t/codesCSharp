@@ -1,0 +1,1 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToHex\bin\Debug\DecimalToHex.exe.config

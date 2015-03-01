@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Loops\N!devidableK!\bin\Debug\N!devidableK!.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Loops\N!devidableK!\bin\Debug\N!devidableK!.exe
+c:\users\тито\documents\visual studio 2013\Projects\Loops\N!devidableK!\bin\Debug\N!devidableK!.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Loops\N!devidableK!\obj\Debug\N!devidableK!.exe
+c:\users\тито\documents\visual studio 2013\Projects\Loops\N!devidableK!\obj\Debug\N!devidableK!.pdb

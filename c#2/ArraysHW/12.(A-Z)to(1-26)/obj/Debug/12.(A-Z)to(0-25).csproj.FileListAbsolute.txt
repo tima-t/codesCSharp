@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\12.(A-Z)to(1-26)\obj\Debug\12.(A-Z)to(1-26).exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\12.(A-Z)to(1-26)\obj\Debug\12.(A-Z)to(1-26).pdb

@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.pdb

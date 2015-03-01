@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

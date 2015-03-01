@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleApplication1\obj\Debug\01SumOf3Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintNumbersNewLines\bin\Debug\PrintNumbersNewLines.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintNumbersNewLines\bin\Debug\PrintNumbersNewLines.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintNumbersNewLines\bin\Debug\PrintNumbersNewLines.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintNumbersNewLines\obj\Debug\PrintNumbersNewLines.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintNumbersNewLines\obj\Debug\PrintNumbersNewLines.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintNumbersNewLines\bin\Debug\PrintNumbersNewLines.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintNumbersNewLines\obj\Debug\PrintNumbersNewLines.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintNumbersNewLines\obj\Debug\PrintNumbersNewLines.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintNumbersNewLines\bin\Debug\PrintNumbersNewLines.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintNumbersNewLines\bin\Debug\PrintNumbersNewLines.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintNumbersNewLines\obj\Debug\PrintNumbersNewLines.csprojResolveAssemblyReference.cache

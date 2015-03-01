@@ -1,0 +1,5 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareChar\bin\Debug\CompareChar.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareChar\bin\Debug\CompareChar.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareChar\bin\Debug\CompareChar.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareChar\obj\Debug\CompareChar.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareChar\obj\Debug\CompareChar.pdb

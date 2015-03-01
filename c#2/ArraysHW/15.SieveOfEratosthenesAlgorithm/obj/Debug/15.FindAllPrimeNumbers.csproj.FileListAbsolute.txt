@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ArraysHW\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Admin\Desktop\ArraysHW\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\Admin\Desktop\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.FindAllPrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Admin\Desktop\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb

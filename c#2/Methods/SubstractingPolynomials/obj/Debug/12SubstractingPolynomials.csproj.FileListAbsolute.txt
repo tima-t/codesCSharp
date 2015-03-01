@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SubstractingPolynomials\bin\Debug\SubstractingPolynomials.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SubstractingPolynomials\bin\Debug\SubstractingPolynomials.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SubstractingPolynomials\bin\Debug\SubstractingPolynomials.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SubstractingPolynomials\obj\Debug\SubstractingPolynomials.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SubstractingPolynomials\obj\Debug\SubstractingPolynomials.pdb

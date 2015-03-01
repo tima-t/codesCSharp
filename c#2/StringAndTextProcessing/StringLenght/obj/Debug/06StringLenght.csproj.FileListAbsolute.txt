@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\StringLenght\bin\Debug\StringLenght.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\StringLenght\bin\Debug\StringLenght.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\StringLenght\bin\Debug\StringLenght.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\StringLenght\obj\Debug\StringLenght.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\StringLenght\obj\Debug\StringLenght.pdb

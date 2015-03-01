@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\Sort3Numbers\bin\Debug\Sort3Numbers.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\Sort3Numbers\bin\Debug\Sort3Numbers.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\Sort3Numbers\bin\Debug\Sort3Numbers.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\Sort3Numbers\obj\Debug\Sort3Numbers.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\Sort3Numbers\obj\Debug\Sort3Numbers.pdb

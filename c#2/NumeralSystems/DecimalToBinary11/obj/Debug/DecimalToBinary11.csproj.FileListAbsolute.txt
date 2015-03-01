@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToBinary11\bin\Debug\DecimalToBinary11.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToBinary11\bin\Debug\DecimalToBinary11.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToBinary11\bin\Debug\DecimalToBinary11.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToBinary11\obj\Debug\DecimalToBinary11.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToBinary11\obj\Debug\DecimalToBinary11.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\DecimalToBinary11\obj\Debug\DecimalToBinary11.pdb

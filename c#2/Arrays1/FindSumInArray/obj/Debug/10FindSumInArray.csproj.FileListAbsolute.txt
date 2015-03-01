@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FindSumInArray\bin\Debug\FindSumInArray.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FindSumInArray\bin\Debug\FindSumInArray.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FindSumInArray\bin\Debug\FindSumInArray.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FindSumInArray\obj\Debug\10FindSumInArray.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FindSumInArray\obj\Debug\FindSumInArray.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FindSumInArray\obj\Debug\FindSumInArray.pdb

@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\FillTheMatrix\obj\Debug\01b)FillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\FillTheMatrix\obj\Debug\FillTheMatrix.pdb

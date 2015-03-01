@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\NumberAsArray\bin\Debug\NumberAsArray.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\NumberAsArray\obj\Debug\08NumberAsArray.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\NumberAsArray\obj\Debug\NumberAsArray.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\NumberAsArray\obj\Debug\NumberAsArray.pdb

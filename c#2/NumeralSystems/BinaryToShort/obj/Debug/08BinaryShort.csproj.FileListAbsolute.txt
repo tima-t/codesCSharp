@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToShort\bin\Debug\BinaryToShort.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToShort\bin\Debug\BinaryToShort.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToShort\bin\Debug\BinaryToShort.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToShort\obj\Debug\BinaryToShort.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToShort\obj\Debug\BinaryToShort.pdb

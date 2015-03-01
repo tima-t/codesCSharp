@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\EmployeeData\obj\Debug\EmployeeData.pdb

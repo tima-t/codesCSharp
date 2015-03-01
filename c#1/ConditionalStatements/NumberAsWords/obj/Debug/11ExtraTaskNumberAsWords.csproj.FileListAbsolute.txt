@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumberAsWords\bin\Debug\NumberAsWords.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumberAsWords\obj\Debug\NumberAsWords.pdb

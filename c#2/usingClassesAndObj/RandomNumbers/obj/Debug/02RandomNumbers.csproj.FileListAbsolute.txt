@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\RandomNumbers\obj\Debug\02RandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Solution2\RandomNumbers\obj\Debug\RandomNumbers.pdb

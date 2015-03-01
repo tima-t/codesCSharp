@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache

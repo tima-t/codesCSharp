@@ -1,0 +1,19 @@
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\Admin\Desktop\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\Admin\Desktop\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\bin\Debug\05.MaximalIncreasingSequenceOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\05.MaximalIncreasingSequenceOfElements\obj\Debug\05.MaximalIncreasingSequenceOfElements.pdb

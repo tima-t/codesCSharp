@@ -1,0 +1,3 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

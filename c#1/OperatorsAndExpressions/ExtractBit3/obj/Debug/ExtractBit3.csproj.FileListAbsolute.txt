@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.exe
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.exe
+c:\users\тито\documents\visual studio 2013\Projects\OperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.pdb

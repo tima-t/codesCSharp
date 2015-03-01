@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ModifyABitFromGivenPosition\bin\Debug\ModifyABitFromGivenPosition.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ModifyABitFromGivenPosition\bin\Debug\ModifyABitFromGivenPosition.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ModifyABitFromGivenPosition\bin\Debug\ModifyABitFromGivenPosition.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ModifyABitFromGivenPosition\obj\Debug\ModifyABitFromGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ModifyABitFromGivenPosition\obj\Debug\ModifyABitFromGivenPosition.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ModifyABitFromGivenPosition\obj\Debug\ModifyABitFromGivenPosition.pdb

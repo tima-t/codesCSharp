@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractTextFromHtml\bin\Debug\ExtractTextFromHtml.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractTextFromHtml\bin\Debug\ExtractTextFromHtml.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractTextFromHtml\bin\Debug\ExtractTextFromHtml.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractTextFromHtml\obj\Debug\25ExtractTextFromHtml.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractTextFromHtml\obj\Debug\ExtractTextFromHtml.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractTextFromHtml\obj\Debug\ExtractTextFromHtml.pdb

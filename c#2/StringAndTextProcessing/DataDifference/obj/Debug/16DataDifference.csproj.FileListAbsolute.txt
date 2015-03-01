@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DataDifference\bin\Debug\DataDifference.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DataDifference\bin\Debug\DataDifference.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DataDifference\bin\Debug\DataDifference.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DataDifference\obj\Debug\DataDifference.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DataDifference\obj\Debug\DataDifference.pdb

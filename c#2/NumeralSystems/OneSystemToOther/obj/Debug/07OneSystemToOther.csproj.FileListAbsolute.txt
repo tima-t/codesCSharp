@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\OneSystemToOther\bin\Debug\OneSystemToOther.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\OneSystemToOther\bin\Debug\OneSystemToOther.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\OneSystemToOther\bin\Debug\OneSystemToOther.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\OneSystemToOther\obj\Debug\07OneSystemToOther.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\OneSystemToOther\obj\Debug\OneSystemToOther.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\OneSystemToOther\obj\Debug\OneSystemToOther.pdb

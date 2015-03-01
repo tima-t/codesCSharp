@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

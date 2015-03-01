@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordDictionary\obj\Debug\WordDictionary.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordDictionary\obj\Debug\WordDictionary.pdb

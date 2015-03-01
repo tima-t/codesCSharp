@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb

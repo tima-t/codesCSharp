@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\SortByStringlenght\bin\Debug\SortByStringlenght.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\SortByStringlenght\obj\Debug\SortByStringlenght.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\SortByStringlenght\bin\Debug\SortByStringlenght.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\SortByStringlenght\bin\Debug\SortByStringlenght.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\SortByStringlenght\obj\Debug\SortByStringlenght.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\SortByStringlenght\obj\Debug\SortByStringlenght.pdb

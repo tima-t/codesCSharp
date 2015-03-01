@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\QuickSort\bin\Debug\QuickSort.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\QuickSort\bin\Debug\QuickSort.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\QuickSort\bin\Debug\QuickSort.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\QuickSort\obj\Debug\QuickSort.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\QuickSort\obj\Debug\QuickSort.pdb

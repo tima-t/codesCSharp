@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ArraysHW\16.FindTheSubsetOfElements\bin\Debug\16.FindTheSubsetOfElements.exe
+C:\Users\Admin\Desktop\ArraysHW\16.FindTheSubsetOfElements\bin\Debug\16.FindTheSubsetOfElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.exe
+C:\Users\Admin\Desktop\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\bin\Debug\16.FindTheSubsetOfElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\bin\Debug\16.FindTheSubsetOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\obj\Debug\16.FindTheSubsetOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\bin\Debug\16.FindTheSubsetOfElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\16.FindTheSubsetOfElements\bin\Debug\16.FindTheSubsetOfElements.pdb

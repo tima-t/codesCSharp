@@ -1,0 +1,8 @@
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\PrintMyName\obj\Debug\PrintMyName.pdb

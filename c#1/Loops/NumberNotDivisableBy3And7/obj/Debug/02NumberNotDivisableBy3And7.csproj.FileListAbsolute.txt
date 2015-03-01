@@ -1,0 +1,3 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\NumberNotDivisableBy3And7\bin\Debug\NumberNotDivisableBy3And7.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\NumberNotDivisableBy3And7\obj\Debug\NumberNotDivisableBy3And7.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\NumberNotDivisableBy3And7\obj\Debug\NumberNotDivisableBy3And7.pdb

@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintSequence\bin\Debug\PrintSequence.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintSequence\bin\Debug\PrintSequence.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintSequence\bin\Debug\PrintSequence.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintSequence\obj\Debug\PrintSequence.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintSequence\obj\Debug\PrintSequence.pdb

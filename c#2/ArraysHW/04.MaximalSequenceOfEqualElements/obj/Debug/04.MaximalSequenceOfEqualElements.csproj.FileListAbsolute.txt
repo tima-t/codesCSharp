@@ -1,0 +1,20 @@
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Admin\Desktop\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Admin\Desktop\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\04.MaximalSequenceOfEqualElements\bin\Debug\04.MaximalSequenceOfEqualElements.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\04.MaximalSequenceOfEqualElements\obj\Debug\04.MaximalSequenceOfEqualElements.pdb

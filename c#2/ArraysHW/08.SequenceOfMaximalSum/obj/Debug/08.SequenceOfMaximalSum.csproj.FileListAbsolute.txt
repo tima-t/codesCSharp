@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ArraysHW\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe
+C:\Users\Admin\Desktop\ArraysHW\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.pdb
+C:\Users\Admin\Desktop\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.exe
+C:\Users\Admin\Desktop\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.pdb
+C:\Users\Admin\Desktop\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.csprojResolveAssemblyReference.cache

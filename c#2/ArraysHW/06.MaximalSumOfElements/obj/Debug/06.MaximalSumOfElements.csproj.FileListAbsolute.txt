@@ -1,0 +1,21 @@
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.pdb
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.pdb
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.exe
+C:\Users\Admin\Desktop\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.exe
+C:\Users\Admin\Desktop\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\bin\Debug\06.MaximalSumOfElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\06.MaximalSumOfElements\obj\Debug\06.MaximalSumOfElements.pdb

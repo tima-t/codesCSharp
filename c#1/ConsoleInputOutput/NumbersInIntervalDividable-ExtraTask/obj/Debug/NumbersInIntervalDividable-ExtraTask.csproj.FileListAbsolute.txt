@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividable-ExtraTask\bin\Debug\NumbersInIntervalDividable-ExtraTask.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividable-ExtraTask\bin\Debug\NumbersInIntervalDividable-ExtraTask.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividable-ExtraTask\bin\Debug\NumbersInIntervalDividable-ExtraTask.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividable-ExtraTask\obj\Debug\NumbersInIntervalDividable-ExtraTask.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConsoleInputOutput\NumbersInIntervalDividable-ExtraTask\obj\Debug\NumbersInIntervalDividable-ExtraTask.pdb

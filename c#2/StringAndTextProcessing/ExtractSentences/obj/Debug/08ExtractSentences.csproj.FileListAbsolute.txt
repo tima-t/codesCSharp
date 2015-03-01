@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractSentences\obj\Debug\08ExtractSentences.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.pdb

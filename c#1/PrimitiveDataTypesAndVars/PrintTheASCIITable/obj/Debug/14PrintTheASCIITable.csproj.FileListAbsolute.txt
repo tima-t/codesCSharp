@@ -1,0 +1,3 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SayHello!\bin\Debug\SayHello!.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SayHello!\obj\Debug\SayHello!.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SayHello!\obj\Debug\SayHello!.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Methods\SayHello!\bin\Debug\SayHello!.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Methods\SayHello!\obj\Debug\SayHello!.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Methods\SayHello!\obj\Debug\SayHello!.pdb

@@ -1,0 +1,5 @@
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\02\bin\Debug\02.exe
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\02\bin\Debug\02.pdb
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\02\obj\Debug\02.exe
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\02\obj\Debug\02.pdb
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\02\obj\Debug\02.ArrayComparison.csprojResolveAssemblyReference.cache

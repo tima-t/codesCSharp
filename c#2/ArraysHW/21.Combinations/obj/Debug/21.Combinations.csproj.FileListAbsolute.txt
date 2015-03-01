@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ArraysHW\21.Combinations\bin\Debug\21.Combinations.exe
+C:\Users\Admin\Desktop\ArraysHW\21.Combinations\bin\Debug\21.Combinations.pdb
+C:\Users\Admin\Desktop\ArraysHW\21.Combinations\obj\Debug\21.Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\Admin\Desktop\ArraysHW\21.Combinations\obj\Debug\21.Combinations.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\21.Combinations\bin\Debug\21.Combinations.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\21.Combinations\bin\Debug\21.Combinations.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\21.Combinations\obj\Debug\21.Combinations.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\21.Combinations\obj\Debug\21.Combinations.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\21.Combinations\obj\Debug\21.Combinations.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\21.Combinations\obj\Debug\21.Combinations.pdb

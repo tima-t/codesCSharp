@@ -1,0 +1,3 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\DeclareVariables\obj\Debug\DeclareVariables.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\DeclareVariables\obj\Debug\DeclareVariables.pdb

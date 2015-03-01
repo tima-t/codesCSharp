@@ -1,0 +1,5 @@
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\FirstLargerThanNeigh\bin\Debug\FirstLargerThanNeigh.exe.config
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\FirstLargerThanNeigh\bin\Debug\FirstLargerThanNeigh.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\FirstLargerThanNeigh\bin\Debug\FirstLargerThanNeigh.pdb
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\FirstLargerThanNeigh\obj\Debug\FirstLargerThanNeigh.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\FirstLargerThanNeigh\obj\Debug\FirstLargerThanNeigh.pdb

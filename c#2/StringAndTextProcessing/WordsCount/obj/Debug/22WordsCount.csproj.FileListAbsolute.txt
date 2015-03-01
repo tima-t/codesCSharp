@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordsCount\bin\Debug\WordsCount.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordsCount\obj\Debug\22WordsCount.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordsCount\obj\Debug\WordsCount.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\WordsCount\obj\Debug\WordsCount.pdb

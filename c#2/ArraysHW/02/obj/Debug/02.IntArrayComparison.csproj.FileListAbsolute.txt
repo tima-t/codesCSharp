@@ -1,0 +1,21 @@
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\02\obj\Debug\02.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\02\obj\Debug\02.pdb
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\02\bin\Debug\02.exe
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\02\bin\Debug\02.pdb
+C:\Users\slimDeluxe\Documents\Visual Studio 2013\Projects\ArraysHW\02\obj\Debug\02.IntArrayComparison.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\02\bin\Debug\02.exe
+C:\Users\Admin\Desktop\ArraysHW\02\bin\Debug\02.pdb
+C:\Users\Admin\Desktop\ArraysHW\02\obj\Debug\02.IntArrayComparison.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\02\obj\Debug\02.exe
+C:\Users\Admin\Desktop\ArraysHW\02\obj\Debug\02.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\02\obj\Debug\02.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\02\obj\Debug\02.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\02\bin\Debug\02.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\02\bin\Debug\02.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\02\obj\Debug\02.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\02\obj\Debug\02.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\02\bin\Debug\02.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\02\bin\Debug\02.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\02\obj\Debug\02.IntArrayComparison.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\02\obj\Debug\02.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\ArraysHW\02\obj\Debug\02.pdb

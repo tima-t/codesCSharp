@@ -1,0 +1,8 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-AgeAfter10Years\bin\Debug\Extra-Task-AgeAfter10Years.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-AgeAfter10Years\bin\Debug\Extra-Task-AgeAfter10Years.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-AgeAfter10Years\bin\Debug\Extra-Task-AgeAfter10Years.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-AgeAfter10Years\obj\Debug\Extra-Task-AgeAfter10Years.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-AgeAfter10Years\obj\Debug\Extra-Task-AgeAfter10Years.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-AgeAfter10Years\bin\Debug\Extra-Task-AgeAfter10Years.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-AgeAfter10Years\obj\Debug\Extra-Task-AgeAfter10Years.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-AgeAfter10Years\obj\Debug\Extra-Task-AgeAfter10Years.pdb

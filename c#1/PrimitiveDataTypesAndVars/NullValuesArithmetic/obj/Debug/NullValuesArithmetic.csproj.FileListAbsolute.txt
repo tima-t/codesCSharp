@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

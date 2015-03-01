@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

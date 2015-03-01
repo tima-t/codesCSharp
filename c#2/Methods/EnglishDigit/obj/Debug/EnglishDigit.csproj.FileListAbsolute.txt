@@ -1,0 +1,5 @@
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+c:\Users\Тито\documents\visual studio 2013\Projects\Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

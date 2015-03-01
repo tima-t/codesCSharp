@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\FloarOrDouble\bin\Debug\FloarOrDouble.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\FloarOrDouble\bin\Debug\FloarOrDouble.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\FloarOrDouble\bin\Debug\FloarOrDouble.pdb
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\FloarOrDouble\obj\Debug\FloarOrDouble.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\FloarOrDouble\obj\Debug\FloarOrDouble.pdb

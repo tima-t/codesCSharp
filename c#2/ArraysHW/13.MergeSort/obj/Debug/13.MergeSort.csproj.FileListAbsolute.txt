@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ArraysHW\13.MergeSort\bin\Debug\13.MergeSort.exe
+C:\Users\Admin\Desktop\ArraysHW\13.MergeSort\bin\Debug\13.MergeSort.pdb
+C:\Users\Admin\Desktop\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.exe
+C:\Users\Admin\Desktop\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\13.MergeSort\bin\Debug\13.MergeSort.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\13.MergeSort\bin\Debug\13.MergeSort.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\13.MergeSort\obj\Debug\13.MergeSort.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\13.MergeSort\bin\Debug\13.MergeSort.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\13.MergeSort\bin\Debug\13.MergeSort.pdb

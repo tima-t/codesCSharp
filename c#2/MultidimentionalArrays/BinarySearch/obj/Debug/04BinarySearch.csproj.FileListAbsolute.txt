@@ -1,0 +1,12 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\BinarySearch\obj\Debug\04BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\MultidimentionalArrays\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\BinarySearch\obj\Debug\04BinarySearch.csprojResolveAssemblyReference.cache

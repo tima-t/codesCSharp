@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\IndexOfLetters\obj\Debug\12IndexOfLetters.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintFirstLastNameNewLine\bin\Debug\PrintFirstLastNameNewLine.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintFirstLastNameNewLine\bin\Debug\PrintFirstLastNameNewLine.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintFirstLastNameNewLine\bin\Debug\PrintFirstLastNameNewLine.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintFirstLastNameNewLine\obj\Debug\PrintFirstLastNameNewLine.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\PrintFirstLastNameNewLine\obj\Debug\PrintFirstLastNameNewLine.pdb

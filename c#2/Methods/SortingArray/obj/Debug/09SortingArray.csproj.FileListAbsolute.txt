@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SortingArray\bin\Debug\SortingArray.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SortingArray\obj\Debug\09SortingArray.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SortingArray\bin\Debug\SortingArray.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SortingArray\bin\Debug\SortingArray.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SortingArray\obj\Debug\SortingArray.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SortingArray\obj\Debug\SortingArray.pdb

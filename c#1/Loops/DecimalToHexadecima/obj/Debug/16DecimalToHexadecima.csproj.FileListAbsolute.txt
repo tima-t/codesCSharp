@@ -1,0 +1,3 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\DecimalToHexadecima\bin\Debug\DecimalToHexadecima.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\DecimalToHexadecima\obj\Debug\DecimalToHexadecima.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Loops\DecimalToHexadecima\obj\Debug\DecimalToHexadecima.pdb

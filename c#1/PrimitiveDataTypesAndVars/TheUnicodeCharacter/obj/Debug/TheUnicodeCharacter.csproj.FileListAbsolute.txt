@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\TheUnicodeCharacter\bin\Debug\TheUnicodeCharacter.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\TheUnicodeCharacter\bin\Debug\TheUnicodeCharacter.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\TheUnicodeCharacter\bin\Debug\TheUnicodeCharacter.pdb
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\TheUnicodeCharacter\obj\Debug\TheUnicodeCharacter.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\TheUnicodeCharacter\obj\Debug\TheUnicodeCharacter.pdb

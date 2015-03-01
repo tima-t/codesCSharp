@@ -1,0 +1,3 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

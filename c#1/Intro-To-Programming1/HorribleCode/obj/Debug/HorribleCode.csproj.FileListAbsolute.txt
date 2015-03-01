@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\HorribleCode\bin\Debug\HorribleCode.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\HorribleCode\bin\Debug\HorribleCode.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\HorribleCode\bin\Debug\HorribleCode.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\HorribleCode\obj\Debug\HorribleCode.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\HorribleCode\obj\Debug\HorribleCode.exe
+c:\users\тито\documents\visual studio 2013\Projects\Intro-To-Programming1\HorribleCode\obj\Debug\HorribleCode.pdb

@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-Current-Date-And-Time\bin\Debug\Extra-Task-Current-Date-And-Time.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-Current-Date-And-Time\bin\Debug\Extra-Task-Current-Date-And-Time.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-Current-Date-And-Time\bin\Debug\Extra-Task-Current-Date-And-Time.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-Current-Date-And-Time\obj\Debug\Extra-Task-Current-Date-And-Time.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-Current-Date-And-Time\obj\Debug\Extra-Task-Current-Date-And-Time.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-Current-Date-And-Time\obj\Debug\Extra-Task-Current-Date-And-Time.pdb

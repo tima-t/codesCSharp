@@ -1,0 +1,10 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-PrintLongSequence\bin\Debug\Extra-Task-PrintLongSequence.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-PrintLongSequence\bin\Debug\Extra-Task-PrintLongSequence.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-PrintLongSequence\bin\Debug\Extra-Task-PrintLongSequence.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-PrintLongSequence\obj\Debug\Extra-Task-PrintLongSequence.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Intro-To-Programming1\Extra-Task-PrintLongSequence\obj\Debug\Extra-Task-PrintLongSequence.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-PrintLongSequence\bin\Debug\Extra-Task-PrintLongSequence.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-PrintLongSequence\obj\Debug\Extra-Task-PrintLongSequence.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-PrintLongSequence\obj\Debug\Extra-Task-PrintLongSequence.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-PrintLongSequence\bin\Debug\Extra-Task-PrintLongSequence.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\Intro-To-Programming1\Extra-Task-PrintLongSequence\bin\Debug\Extra-Task-PrintLongSequence.pdb

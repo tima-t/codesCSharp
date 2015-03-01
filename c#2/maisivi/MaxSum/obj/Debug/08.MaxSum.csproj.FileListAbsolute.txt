@@ -1,0 +1,5 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSum\bin\Debug\MaxSum.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSum\bin\Debug\MaxSum.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSum\bin\Debug\MaxSum.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSum\obj\Debug\MaxSum.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSum\obj\Debug\MaxSum.pdb

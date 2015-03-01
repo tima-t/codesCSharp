@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOf5Numbers\bin\Debug\TheBiggestOf5Numbers.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOf5Numbers\bin\Debug\TheBiggestOf5Numbers.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOf5Numbers\bin\Debug\TheBiggestOf5Numbers.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOf5Numbers\obj\Debug\TheBiggestOf5Numbers.exe
+c:\users\тито\documents\visual studio 2013\Projects\ConditionalStatements\TheBiggestOf5Numbers\obj\Debug\TheBiggestOf5Numbers.pdb

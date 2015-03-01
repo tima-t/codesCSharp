@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SolveTasks\bin\Debug\SolveTasks.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SolveTasks\bin\Debug\SolveTasks.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SolveTasks\bin\Debug\SolveTasks.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SolveTasks\obj\Debug\13SolveTasks.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SolveTasks\obj\Debug\SolveTasks.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Methods\SolveTasks\obj\Debug\SolveTasks.pdb

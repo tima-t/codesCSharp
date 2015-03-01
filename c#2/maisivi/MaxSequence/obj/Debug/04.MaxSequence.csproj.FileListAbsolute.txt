@@ -1,0 +1,5 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSequence\bin\Debug\MaxSequence.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSequence\bin\Debug\MaxSequence.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSequence\bin\Debug\MaxSequence.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSequence\obj\Debug\MaxSequence.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\MaxSequence\obj\Debug\MaxSequence.pdb

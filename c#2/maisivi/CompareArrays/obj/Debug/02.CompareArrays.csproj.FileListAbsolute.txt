@@ -1,0 +1,6 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareArrays\bin\Debug\CompareArrays.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareArrays\bin\Debug\CompareArrays.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareArrays\bin\Debug\CompareArrays.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareArrays\obj\Debug\02.CompareArrays.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareArrays\obj\Debug\CompareArrays.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\maisivi\CompareArrays\obj\Debug\CompareArrays.pdb

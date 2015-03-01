@@ -1,0 +1,5 @@
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\01\bin\Debug\01.exe
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\01\bin\Debug\01.pdb
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\01\obj\Debug\01.csprojResolveAssemblyReference.cache
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\01\obj\Debug\01.exe
+c:\users\slimdeluxe\documents\visual studio 2013\Projects\ArraysHW\01\obj\Debug\01.pdb

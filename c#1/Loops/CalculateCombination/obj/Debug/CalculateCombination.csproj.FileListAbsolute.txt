@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Loops\CalculateCombination\bin\Debug\CalculateCombination.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Loops\CalculateCombination\bin\Debug\CalculateCombination.exe
+c:\users\тито\documents\visual studio 2013\Projects\Loops\CalculateCombination\bin\Debug\CalculateCombination.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Loops\CalculateCombination\obj\Debug\CalculateCombination.exe
+c:\users\тито\documents\visual studio 2013\Projects\Loops\CalculateCombination\obj\Debug\CalculateCombination.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\Loops\CalculateCombination\obj\Debug\CalculateCombination.csprojResolveAssemblyReference.cache

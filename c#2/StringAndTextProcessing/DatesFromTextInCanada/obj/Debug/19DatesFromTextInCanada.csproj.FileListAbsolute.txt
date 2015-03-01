@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DatesFromTextInCanada\bin\Debug\DatesFromTextInCanada.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DatesFromTextInCanada\bin\Debug\DatesFromTextInCanada.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DatesFromTextInCanada\bin\Debug\DatesFromTextInCanada.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DatesFromTextInCanada\obj\Debug\DatesFromTextInCanada.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DatesFromTextInCanada\obj\Debug\DatesFromTextInCanada.pdb

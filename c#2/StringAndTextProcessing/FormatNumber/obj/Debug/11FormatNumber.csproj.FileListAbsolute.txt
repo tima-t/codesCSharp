@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.pdb

@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\CompareFloats\bin\Debug\CompareFloats.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\CompareFloats\bin\Debug\CompareFloats.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\CompareFloats\bin\Debug\CompareFloats.pdb
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\CompareFloats\obj\Debug\CompareFloats.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\CompareFloats\obj\Debug\CompareFloats.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\CompareFloats\obj\Debug\CompareFloats.pdb

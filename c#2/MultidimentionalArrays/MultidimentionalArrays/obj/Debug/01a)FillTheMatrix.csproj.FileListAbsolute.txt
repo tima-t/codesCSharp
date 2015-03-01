@@ -1,0 +1,8 @@
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.exe
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.pdb
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe.config
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.exe
+C:\Users\Тито\Desktop\Telerik\homeworks\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.pdb

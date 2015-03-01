@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DateInBulgaria\bin\Debug\DateInBulgaria.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DateInBulgaria\bin\Debug\DateInBulgaria.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DateInBulgaria\bin\Debug\DateInBulgaria.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DateInBulgaria\obj\Debug\17DateInBulgaria.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DateInBulgaria\obj\Debug\DateInBulgaria.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\StringAndTextProcessing\DateInBulgaria\obj\Debug\DateInBulgaria.pdb

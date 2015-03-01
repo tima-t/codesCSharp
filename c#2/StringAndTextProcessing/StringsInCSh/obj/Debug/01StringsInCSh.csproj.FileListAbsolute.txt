@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\StringAndTextProcessing\StringsInCSh\bin\Debug\StringsInCSh.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\StringAndTextProcessing\StringsInCSh\bin\Debug\StringsInCSh.exe
+c:\users\тито\documents\visual studio 2013\Projects\StringAndTextProcessing\StringsInCSh\bin\Debug\StringsInCSh.pdb
+c:\users\тито\documents\visual studio 2013\Projects\StringAndTextProcessing\StringsInCSh\obj\Debug\01StringsInCSh.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\StringAndTextProcessing\StringsInCSh\obj\Debug\StringsInCSh.exe
+c:\users\тито\documents\visual studio 2013\Projects\StringAndTextProcessing\StringsInCSh\obj\Debug\StringsInCSh.pdb

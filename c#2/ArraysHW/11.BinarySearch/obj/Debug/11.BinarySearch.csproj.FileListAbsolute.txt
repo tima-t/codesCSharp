@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ArraysHW\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Users\Admin\Desktop\ArraysHW\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Users\Admin\Desktop\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\Admin\Desktop\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

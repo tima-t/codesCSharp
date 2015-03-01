@@ -1,0 +1,3 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVars\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

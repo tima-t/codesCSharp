@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FrequentNumber\bin\Debug\FrequentNumber.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FrequentNumber\bin\Debug\FrequentNumber.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FrequentNumber\bin\Debug\FrequentNumber.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FrequentNumber\obj\Debug\FrequentNumber.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\FrequentNumber\obj\Debug\FrequentNumber.pdb

@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+c:\users\тито\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVars\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

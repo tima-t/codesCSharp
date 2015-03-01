@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\HexToDec\bin\Debug\HexToDec.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\HexToDec\bin\Debug\HexToDec.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\HexToDec\bin\Debug\HexToDec.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\HexToDec\obj\Debug\HexToDec.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NumeralSystems\HexToDec\obj\Debug\HexToDec.pdb

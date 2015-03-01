@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\CompareArrays\bin\Debug\CompareArrays.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\CompareArrays\bin\Debug\CompareArrays.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\CompareArrays\bin\Debug\CompareArrays.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\CompareArrays\obj\Debug\02CompareArrays.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\CompareArrays\obj\Debug\CompareArrays.exe
+c:\users\тито\documents\visual studio 2013\Projects\Arrays1\CompareArrays\obj\Debug\CompareArrays.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\ArraysHW\18.SortArrayByRemovingElements\bin\Debug\18.SortArrayByRemovingElements.exe
+C:\Users\Admin\Desktop\ArraysHW\18.SortArrayByRemovingElements\bin\Debug\18.SortArrayByRemovingElements.pdb
+C:\Users\Admin\Desktop\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.exe
+C:\Users\Admin\Desktop\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.pdb
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\bin\Debug\18.SortArrayByRemovingElements.exe
+C:\Users\slim\Desktop\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\bin\Debug\18.SortArrayByRemovingElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\obj\Debug\18.SortArrayByRemovingElements.pdb
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\bin\Debug\18.SortArrayByRemovingElements.exe
+C:\Users\Admin\Desktop\c# 2\c# 2\Telerik\ArraysHW\18.SortArrayByRemovingElements\bin\Debug\18.SortArrayByRemovingElements.pdb

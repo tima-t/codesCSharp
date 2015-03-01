@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.exe
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\bin\Debug\MultidimentionalArrays.pdb
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\01MultidimentionalArrays.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.exe
+c:\users\тито\documents\visual studio 2013\Projects\MultidimentionalArrays\MultidimentionalArrays\obj\Debug\MultidimentionalArrays.pdb
