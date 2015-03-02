@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ConcatenateTextFiles\obj\Debug\02ConcatenateTextFiles.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb

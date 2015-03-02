@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CountWords\bin\Debug\CountWords.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CountWords\bin\Debug\CountWords.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CountWords\bin\Debug\CountWords.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CountWords\obj\Debug\CountWords.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CountWords\obj\Debug\CountWords.pdb

@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\SaveSortedNames\bin\Debug\SaveSortedNames.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\SaveSortedNames\bin\Debug\SaveSortedNames.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\SaveSortedNames\bin\Debug\SaveSortedNames.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\SaveSortedNames\obj\Debug\SaveSortedNames.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\SaveSortedNames\obj\Debug\SaveSortedNames.pdb

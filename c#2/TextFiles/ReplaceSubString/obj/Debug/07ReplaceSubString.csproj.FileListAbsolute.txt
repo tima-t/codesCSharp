@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ReplaceSubString\bin\Debug\ReplaceSubString.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ReplaceSubString\bin\Debug\ReplaceSubString.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ReplaceSubString\bin\Debug\ReplaceSubString.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ReplaceSubString\obj\Debug\07ReplaceSubString.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ReplaceSubString\obj\Debug\ReplaceSubString.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\ReplaceSubString\obj\Debug\ReplaceSubString.pdb

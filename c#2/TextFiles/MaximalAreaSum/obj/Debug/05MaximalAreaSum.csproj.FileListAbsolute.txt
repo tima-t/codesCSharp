@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\MaximalAreaSum\bin\Debug\MaximalAreaSum.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\MaximalAreaSum\obj\Debug\05MaximalAreaSum.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\MaximalAreaSum\obj\Debug\MaximalAreaSum.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\MaximalAreaSum\obj\Debug\MaximalAreaSum.pdb

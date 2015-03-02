@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\RemoveWords\bin\Debug\RemoveWords.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\RemoveWords\bin\Debug\RemoveWords.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\RemoveWords\bin\Debug\RemoveWords.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\RemoveWords\obj\Debug\RemoveWords.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\RemoveWords\obj\Debug\RemoveWords.pdb

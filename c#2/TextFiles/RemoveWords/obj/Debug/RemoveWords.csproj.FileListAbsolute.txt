@@ -1,0 +1,1 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\RemoveWords\bin\Debug\RemoveWords.exe.config

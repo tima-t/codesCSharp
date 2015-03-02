@@ -1,0 +1,20 @@
+0 using System;
+2 using System.Linq;
+4 using System.Threading.Tasks;
+6 
+8 {
+10     {
+12         {
+14 
+16 
+18             StreamReader reader = new StreamReader(fileName);
+20             {
+22                 {
+24                     string line = reader.ReadLine();
+26                     {
+28                         {
+30                         } 
+32                         line = reader.ReadLine();
+34                     }
+36             }
+38     }

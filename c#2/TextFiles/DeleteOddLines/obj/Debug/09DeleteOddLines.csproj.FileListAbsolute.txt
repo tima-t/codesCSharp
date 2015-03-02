@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

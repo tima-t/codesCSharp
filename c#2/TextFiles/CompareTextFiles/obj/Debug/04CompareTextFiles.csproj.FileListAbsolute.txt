@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CompareTextFiles\obj\Debug\04CompareTextFiles.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.pdb

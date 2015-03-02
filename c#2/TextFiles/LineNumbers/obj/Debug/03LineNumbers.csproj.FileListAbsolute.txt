@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\LineNumbers\bin\Debug\LineNumbers.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\LineNumbers\bin\Debug\LineNumbers.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\LineNumbers\bin\Debug\LineNumbers.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\LineNumbers\obj\Debug\LineNumbers.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\LineNumbers\obj\Debug\LineNumbers.pdb

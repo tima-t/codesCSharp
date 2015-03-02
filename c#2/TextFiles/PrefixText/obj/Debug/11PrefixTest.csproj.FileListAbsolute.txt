@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\PrefixText\bin\Debug\PrefixText.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\PrefixText\bin\Debug\PrefixText.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\PrefixText\bin\Debug\PrefixText.pdb
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\PrefixText\obj\Debug\PrefixText.exe
+c:\users\тито\documents\visual studio 2013\Projects\TextFiles\PrefixText\obj\Debug\PrefixText.pdb
