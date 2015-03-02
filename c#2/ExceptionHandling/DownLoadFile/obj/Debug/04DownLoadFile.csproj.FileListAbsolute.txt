@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\DownLoadFile\bin\Debug\DownLoadFile.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\DownLoadFile\bin\Debug\DownLoadFile.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\DownLoadFile\bin\Debug\DownLoadFile.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\DownLoadFile\obj\Debug\04DownLoadFile.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\DownLoadFile\obj\Debug\DownLoadFile.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\DownLoadFile\obj\Debug\DownLoadFile.pdb

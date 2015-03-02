@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.pdb
