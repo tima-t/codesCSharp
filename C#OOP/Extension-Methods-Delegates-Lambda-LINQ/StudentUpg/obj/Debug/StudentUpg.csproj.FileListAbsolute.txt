@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentUpg\bin\Debug\StudentUpg.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentUpg\obj\Debug\StudentUpg.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentUpg\bin\Debug\StudentUpg.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentUpg\bin\Debug\StudentUpg.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentUpg\obj\Debug\StudentUpg.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\StudentUpg\obj\Debug\StudentUpg.pdb

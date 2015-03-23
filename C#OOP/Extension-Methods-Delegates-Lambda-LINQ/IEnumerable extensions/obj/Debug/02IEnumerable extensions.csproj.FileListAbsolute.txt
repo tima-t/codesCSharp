@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerable extensions\bin\Debug\IEnumerable extensions.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerable extensions\bin\Debug\IEnumerable extensions.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerable extensions\bin\Debug\IEnumerable extensions.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerable extensions\obj\Debug\02IEnumerable extensions.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerable extensions\obj\Debug\IEnumerable extensions.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\IEnumerable extensions\obj\Debug\IEnumerable extensions.pdb

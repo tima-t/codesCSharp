@@ -1,0 +1,3 @@
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Timer\bin\Debug\Timer.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Timer\obj\Debug\Timer.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Timer\obj\Debug\Timer.pdb

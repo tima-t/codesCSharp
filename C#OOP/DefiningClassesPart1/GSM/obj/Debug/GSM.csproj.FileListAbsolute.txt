@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClassesPart1\GSM\bin\Debug\GSM.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClassesPart1\GSM\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClassesPart1\GSM\bin\Debug\GSM.exe
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClassesPart1\GSM\bin\Debug\GSM.pdb
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClassesPart1\GSM\obj\Debug\GSM.exe
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClassesPart1\GSM\obj\Debug\GSM.pdb

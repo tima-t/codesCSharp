@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClasses2\Structure3d\bin\Debug\Structure3d.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClasses2\Structure3d\bin\Debug\Structure3d.exe
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClasses2\Structure3d\bin\Debug\Structure3d.pdb
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClasses2\Structure3d\obj\Debug\Structure3d.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClasses2\Structure3d\obj\Debug\Structure3d.exe
+c:\users\тито\documents\visual studio 2013\Projects\DefiningClasses2\Structure3d\obj\Debug\Structure3d.pdb

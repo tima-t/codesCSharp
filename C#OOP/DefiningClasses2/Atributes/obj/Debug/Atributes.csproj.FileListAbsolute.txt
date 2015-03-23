@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\Atributes\bin\Debug\Atributes.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\Atributes\bin\Debug\Atributes.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\Atributes\bin\Debug\Atributes.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\Atributes\obj\Debug\Atributes.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\Atributes\obj\Debug\Atributes.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\Atributes\obj\Debug\Atributes.pdb

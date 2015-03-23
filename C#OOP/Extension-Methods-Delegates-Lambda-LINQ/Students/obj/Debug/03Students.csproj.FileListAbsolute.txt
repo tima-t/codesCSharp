@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Students\bin\Debug\Students.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Students\bin\Debug\Students.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Students\bin\Debug\Students.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Students\obj\Debug\03Students.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Students\obj\Debug\Students.exe
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\Students\obj\Debug\Students.pdb

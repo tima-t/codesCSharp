@@ -1,0 +1,6 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\GenericArr\bin\Debug\GenericArr.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\GenericArr\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\GenericArr\bin\Debug\GenericArr.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\GenericArr\bin\Debug\GenericArr.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\GenericArr\obj\Debug\GenericArr.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\DefiningClasses2\GenericArr\obj\Debug\GenericArr.pdb

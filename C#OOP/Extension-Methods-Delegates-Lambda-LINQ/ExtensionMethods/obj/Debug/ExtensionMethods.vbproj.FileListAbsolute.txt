@@ -1,0 +1,1 @@
+c:\users\тито\documents\visual studio 2013\Projects\Extension-Methods-Delegates-Lambda-LINQ\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
