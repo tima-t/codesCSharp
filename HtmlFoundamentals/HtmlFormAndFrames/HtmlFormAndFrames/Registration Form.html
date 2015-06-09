@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+    <section>
+        <form>
+            <table border="1">
+
+                <tr><td><label for="ln"><strong>Last Name</strong></label></td> <td><input id="ln" type="text" /></td></tr>
+                <tr><td><label for="fn"><strong>Last Name</strong></label></td> <td><input id="fn" type="text" /></td></tr>
+                <tr><td style="text-align:center" rowspan="1">  <label for="address"><strong>Address</strong></label></td> <td><textarea rows="4" id="address"> </textarea></td></tr>
+                <tr><td><label for="city"><strong>City</strong></label></td> <td colspan="1"><input size="8" id="city" type="text" /><label for="state">State</label><input size="4" type="text" id="state" /> </td></tr>
+                <tr><td><label for="zip"><strong>Zip/Postal Code</strong></label></td><td><input size="4" id="zip" /></td> </tr>
+                <tr>
+                    <td><label for="country"><strong>Country</strong></label></td>
+                    <td>
+                        <select id="country">
+                            <option value="4">Russia</option>
+                            <option value="2">The USA</option>
+                            <option value="3">Germany</option>
+                            <option value="1" selected="selected">Bulgaria</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr><td><label for="ph"><strong>Phone(country code,<br />area code,number)</strong></label></td><td>(+<input id="ph" size="1" /> ) <input size="1" /> <input size="5" /></td></tr>
+                <tr><td><label for="email"><strong>Email</strong></label></td> <td><input id="email" type="email" /></td></tr>
+                <tr><td><label for="bd"><strong>Birth date</strong></label></td> <td><input id="bd" type="date" /></td></tr>
+                <tr>
+                    <td><label for="gend"><strong>Gender</strong></label></td>
+                    <td>
+                        <select id="gend">
+                            <option selected="selected">Male</option>
+                            <option value="2">Female</option>
+                        </select>
+
+                    </td>
+
+                </tr>
+                <tr>
+                    <td><label for="sd"><strong>Starting Date</strong></label></td>
+                    <td>
+                        <input type="radio" id="sd" name="date" checked>Summer 2015
+                       
+                        <input type="radio" name="date" >Spring 2015
+                    </td>
+                </tr>
+                <tr><td style="text-align:center" rowspan="1">  <label for="cq"><strong>Comments/Questions</strong></label></td> <td><textarea rows="6" id="cq"> </textarea></td></tr>
+                <tr bgcolor="33ccff"><td  colspan="2" style="padding-left:95px"><button>submit</button> <input type="reset" value="clean this form" /></td></tr>
+            </table>
+        </form>
+    </section>
+
+</body>
+</html>

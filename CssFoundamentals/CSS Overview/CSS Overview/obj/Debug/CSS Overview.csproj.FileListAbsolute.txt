@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\bin\CSS Overview.dll.config
+c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\bin\CSS Overview.dll
+c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\bin\CSS Overview.pdb
+c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\obj\Debug\CSS Overview.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\obj\Debug\CSS Overview.dll
+c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\obj\Debug\CSS Overview.pdb

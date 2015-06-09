@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\BitArray\bin\Debug\BitArray.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\BitArray\bin\Debug\BitArray.exe
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\BitArray\bin\Debug\BitArray.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\BitArray\obj\Debug\BitArray.exe
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\BitArray\obj\Debug\BitArray.pdb

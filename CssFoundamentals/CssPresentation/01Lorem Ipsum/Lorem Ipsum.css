@@ -1,0 +1,16 @@
+﻿body {
+    font-size: 14px;
+    color: #0094ff;
+    background-color: #f2e6cb;
+}
+
+h1 {
+    font-family: 'Edwardian Script ITC';
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+p {
+    width: 600px;
+    font-family: Consolas;
+    text-align: justify;
+}

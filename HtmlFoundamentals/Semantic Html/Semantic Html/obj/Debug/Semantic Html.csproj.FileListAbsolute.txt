@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Semantic Html\Semantic Html\bin\Semantic Html.dll.config
+c:\users\тито\documents\visual studio 2013\Projects\Semantic Html\Semantic Html\bin\Semantic Html.dll
+c:\users\тито\documents\visual studio 2013\Projects\Semantic Html\Semantic Html\bin\Semantic Html.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Semantic Html\Semantic Html\obj\Debug\Semantic Html.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Semantic Html\Semantic Html\obj\Debug\Semantic Html.dll
+c:\users\тито\documents\visual studio 2013\Projects\Semantic Html\Semantic Html\obj\Debug\Semantic Html.pdb

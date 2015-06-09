@@ -1,0 +1,6 @@
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\WebApplication1\bin\WebApplication1.dll
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\WebApplication1\obj\Debug\WebApplication1.pdb

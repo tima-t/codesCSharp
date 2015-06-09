@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\Less\Less\bin\Less.dll.config
+c:\users\тито\documents\visual studio 2013\Projects\Less\Less\bin\Less.dll
+c:\users\тито\documents\visual studio 2013\Projects\Less\Less\bin\Less.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Less\Less\obj\Debug\Less.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Less\Less\obj\Debug\Less.dll
+c:\users\тито\documents\visual studio 2013\Projects\Less\Less\obj\Debug\Less.pdb

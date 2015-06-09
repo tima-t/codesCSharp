@@ -1,0 +1,169 @@
+﻿.left {
+  float: left;
+  width: 30%;
+  height: 450px;
+  margin: 20px 0 0 20px;
+  border: 1px solid #004202;
+  border-radius: 10px;
+  overflow-y: scroll;
+}
+.preview li {
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  list-style-type: none;
+}
+.li > .photo {
+  display: none;
+}
+.li1 {
+  background: url("pic1.png");
+  background-size: 100% 100%;
+}
+.li1:hover > .photo {
+  background-image: url("pic1.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li2 {
+  background: url("pic2.png");
+  background-size: 100% 100%;
+}
+.li2:hover > .photo {
+  background: url("pic2.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li3 {
+  background: url("pic3.png");
+  background-size: 100% 100%;
+}
+.li3:hover > .photo {
+  background: url("pic3.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li4 {
+  background: url("pic4.png");
+  background-size: 100% 100%;
+}
+.li4:hover > .photo {
+  background: url("pic4.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li5 {
+  background: url("pic5.png");
+  background-size: 100% 100%;
+}
+.li5:hover > .photo {
+  background: url("pic5.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li6 {
+  background: url("pic6.png");
+  background-size: 100% 100%;
+}
+.li6:hover > .photo {
+  background: url("pic6.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li7 {
+  background: url("pic7.png");
+  background-size: 100% 100%;
+}
+.li7:hover > .photo {
+  background: url("pic7.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li8 {
+  background: url("pic8.png");
+  background-size: 100% 100%;
+}
+.li8:hover > .photo {
+  background: url("pic8.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li9 {
+  background: url("pic9.png");
+  background-size: 100% 100%;
+}
+.li9:hover > .photo {
+  background: url("pic9.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+.li10 {
+  background: url("pic10.png");
+  background-size: 100% 100%;
+}
+.li10:hover > .photo {
+  background: url("pic10.png");
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10%;
+  width: 500px;
+  height: 500px;
+  z-index: 1;
+  background-size: 100% 100%;
+}
+/*# sourceMappingURL=Style.css.map */

@@ -1,0 +1,68 @@
+﻿div, h2, article, button, p {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+h2 {
+	font-family: Arial Narrow, Arial, sans-serif;
+	font-size: 1.5em;
+}
+
+div	{
+	width: 390px;
+	padding: 10px;
+ 	background: #eeeeee;
+     position :relative;
+     left:35%;
+  
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+button.listen, button.add {
+	 background: -webkit-linear-gradient(left,#8A0000 5%, #CC0001 100%); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(left,#8A0000 5%, #CC0001 100%); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(left,#8A0000 5%, #CC0001 100%); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(left,#8A0000 5%, #CC0001 100%); /* Standard syntax */
+	height: 24px;
+	color: white;
+}
+
+button.listen {
+	width: 76px;
+}
+
+button.add {
+	width: 65px;
+	margin-left: 5px;
+}
+
+
+
+
+img {
+	width: 135px;
+	height: 86px;
+	border: 1px solid #9a9997;
+	float: left;
+	margin-right: 15px;
+}
+
+button {
+	float: right;
+}
+
+article {
+	margin: 35px 0 10px 0;
+	position: relative;
+	border: 1px solid #9a9997;
+	background: white;
+	padding: 15px;
+	overflow: hidden;
+}

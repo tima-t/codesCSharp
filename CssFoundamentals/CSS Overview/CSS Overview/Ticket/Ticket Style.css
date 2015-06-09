@@ -1,0 +1,37 @@
+﻿
+
+body {
+    background-color: #595959;
+}
+
+#title {
+    color: #C0C2A9;
+}
+
+.fields {
+    color: #ffffff;
+    font-style: italic;
+}
+
+.lyellow {
+    color: #DDD788;
+}
+
+#red {
+    color: red;
+}
+
+.grey {
+    color: #BCBEC1;
+}
+
+#orange {
+    padding-left: 100px;
+    color: #ff6a00;
+}
+
+.positon {
+    position: relative;
+    top: -15px;
+    padding-left: 100px;
+}

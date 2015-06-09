@@ -1,0 +1,48 @@
+﻿body {
+}
+img{
+    width:80px;
+    height:50px;
+    float:left;
+   
+}
+header{
+  
+    height:50px;
+}
+h2{
+    display:inline-block;
+    float:left;
+}
+form{
+    padding-top:5px;
+   
+}
+#content{
+    border:1px solid #3B3B3B;
+    border-radius:10px;
+    background-color:#3B3B3B;
+    width:662px;
+    height:229px;
+
+}
+h1{
+    color:yellow;
+    font-family:'Engravers MT';
+}
+button{
+    background-color:red;
+    color:white;
+    border:1px solid white;
+    border-radius:35px;
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+span{
+    font-family:'Bookman Old Style';
+    color:yellow;
+    text-decoration-style:solid;
+    
+}

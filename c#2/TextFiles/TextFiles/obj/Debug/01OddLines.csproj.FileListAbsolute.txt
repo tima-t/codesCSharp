@@ -4,3 +4,6 @@ c:\users\тито\documents\visual studio 2013\Projects\TextFiles\TextFiles\bin\
 c:\users\тито\documents\visual studio 2013\Projects\TextFiles\TextFiles\obj\Debug\01OddLines.csprojResolveAssemblyReference.cache
 c:\users\тито\documents\visual studio 2013\Projects\TextFiles\TextFiles\obj\Debug\TextFiles.exe
 c:\users\тито\documents\visual studio 2013\Projects\TextFiles\TextFiles\obj\Debug\TextFiles.pdb
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\c#2\TextFiles\TextFiles\bin\Debug\TextFiles.exe.config
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\c#2\TextFiles\TextFiles\obj\Debug\TextFiles.exe
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\c#2\TextFiles\TextFiles\obj\Debug\TextFiles.pdb

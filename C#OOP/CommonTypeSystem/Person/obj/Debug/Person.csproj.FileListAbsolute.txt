@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\Person\bin\Debug\Person.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\Person\bin\Debug\Person.exe
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\Person\bin\Debug\Person.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\Person\obj\Debug\Person.exe
+c:\users\тито\documents\visual studio 2013\Projects\Solution2\Person\obj\Debug\Person.pdb

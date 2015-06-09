@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\HtmlFormAndFrames\HtmlFormAndFrames\bin\HtmlFormAndFrames.dll.config
+c:\users\тито\documents\visual studio 2013\Projects\HtmlFormAndFrames\HtmlFormAndFrames\bin\HtmlFormAndFrames.dll
+c:\users\тито\documents\visual studio 2013\Projects\HtmlFormAndFrames\HtmlFormAndFrames\bin\HtmlFormAndFrames.pdb
+c:\users\тито\documents\visual studio 2013\Projects\HtmlFormAndFrames\HtmlFormAndFrames\obj\Debug\HtmlFormAndFrames.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\HtmlFormAndFrames\HtmlFormAndFrames\obj\Debug\HtmlFormAndFrames.dll
+c:\users\тито\documents\visual studio 2013\Projects\HtmlFormAndFrames\HtmlFormAndFrames\obj\Debug\HtmlFormAndFrames.pdb

@@ -1,0 +1,20 @@
+﻿body {
+
+}
+table {
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 1px solid black;
+}
+th{
+    color:#ECECD8;
+    background-color:green;
+}
+.marked{
+    background-color:#ECECD8;
+}
+img{
+    width:30px;
+    height:15px;
+}

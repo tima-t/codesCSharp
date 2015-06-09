@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\BankAccounts\bin\Debug\BankAccounts.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\BankAccounts\obj\Debug\BankAccounts.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\BankAccounts\bin\Debug\BankAccounts.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\BankAccounts\bin\Debug\BankAccounts.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\BankAccounts\obj\Debug\BankAccounts.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\BankAccounts\obj\Debug\BankAccounts.pdb

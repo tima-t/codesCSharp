@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\Animal-hierarchy\bin\Debug\Animal-hierarchy.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\Animal-hierarchy\obj\Debug\Animal-hierarchy.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\Animal-hierarchy\bin\Debug\Animal-hierarchy.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\Animal-hierarchy\bin\Debug\Animal-hierarchy.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\Animal-hierarchy\obj\Debug\Animal-hierarchy.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\Animal-hierarchy\obj\Debug\Animal-hierarchy.pdb

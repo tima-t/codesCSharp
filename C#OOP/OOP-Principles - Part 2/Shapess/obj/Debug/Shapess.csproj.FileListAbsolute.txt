@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\Shapess\bin\Debug\Shapess.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\Shapess\obj\Debug\Shapess.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\Shapess\bin\Debug\Shapess.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\Shapess\bin\Debug\Shapess.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\Shapess\obj\Debug\Shapess.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 2\Shapess\obj\Debug\Shapess.pdb

@@ -1,0 +1,12 @@
+c:\users\тито\documents\visual studio 2013\Projects\Homework2-HTML_Tables\Homework2-HTML_Tables\bin\Homework2-HTML_Tables.dll.config
+c:\users\тито\documents\visual studio 2013\Projects\Homework2-HTML_Tables\Homework2-HTML_Tables\bin\Homework2-HTML_Tables.dll
+c:\users\тито\documents\visual studio 2013\Projects\Homework2-HTML_Tables\Homework2-HTML_Tables\bin\Homework2-HTML_Tables.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Homework2-HTML_Tables\Homework2-HTML_Tables\obj\Debug\Homework2-HTML_Tables.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Homework2-HTML_Tables\Homework2-HTML_Tables\obj\Debug\Homework2-HTML_Tables.dll
+c:\users\тито\documents\visual studio 2013\Projects\Homework2-HTML_Tables\Homework2-HTML_Tables\obj\Debug\Homework2-HTML_Tables.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\Homework2-HTML_Tables\Homework2-HTML_Tables\bin\Homework2-HTML_Tables.dll.config
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\Homework2-HTML_Tables\Homework2-HTML_Tables\bin\Homework2-HTML_Tables.dll
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\Homework2-HTML_Tables\Homework2-HTML_Tables\bin\Homework2-HTML_Tables.pdb
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\Homework2-HTML_Tables\Homework2-HTML_Tables\obj\Debug\Homework2-HTML_Tables.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\Homework2-HTML_Tables\Homework2-HTML_Tables\obj\Debug\Homework2-HTML_Tables.dll
+C:\Users\Тито\Desktop\Telerik\homeworks\HtmlFoundamentals\Homework2-HTML_Tables\Homework2-HTML_Tables\obj\Debug\Homework2-HTML_Tables.pdb

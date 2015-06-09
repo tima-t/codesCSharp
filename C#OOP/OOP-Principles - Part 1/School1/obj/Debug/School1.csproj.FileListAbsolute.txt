@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\School1\bin\Debug\School1.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\School1\bin\Debug\School1.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\School1\bin\Debug\School1.pdb
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\School1\obj\Debug\School1.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\School1\obj\Debug\School1.exe
+c:\users\тито\documents\visual studio 2013\Projects\OOP-Principles - Part 1\School1\obj\Debug\School1.pdb

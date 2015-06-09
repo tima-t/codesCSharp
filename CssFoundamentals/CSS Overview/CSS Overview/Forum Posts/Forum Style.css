@@ -1,0 +1,28 @@
+﻿body {
+    border: 3px solid  purple;
+    background-color:#A9A9A9;
+}
+.padding{
+    position:relative;
+    left:0.7%;
+}
+ul{
+    position:relative;
+    left:40%;
+    color:#ffffff;
+}
+.center{
+     position:relative;
+    left:40%;
+}
+a:link {
+    text-decoration:none;
+    color: #ffffff;
+}
+ h1{
+     color: #FAFAD2;
+ }
+ .small{
+     font-size:13px;
+ }
+
