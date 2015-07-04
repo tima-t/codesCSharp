@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task4RefactorAndImprove</name>
+    </assembly>
+    <members>
+        <member name="T:Task4RefactorAndImprove.Mines">
+            <summary>
+            Class for mines
+            </summary>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.Main">
+            <summary>
+            this is the engine
+            </summary>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.TopPlayers(System.Collections.Generic.List{Task4RefactorAndImprove.Points})">
+            <summary>
+            Show list with top players
+            </summary>
+            <param name="points"> points of type List</param>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.YourTurn(System.Char[0:,0:],System.Char[0:,0:],System.Int32,System.Int32)">
+            <summary>
+             Method for each turn
+            </summary>
+            <param name="field"> matrix symbol type</param>
+            <param name="bombs"> symbol type</param>
+            <param name="row"> row integer</param>
+            <param name="coll"> column integer</param>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.DrawField(System.Char[0:,0:])">
+            <summary>
+            This method draws the field
+            </summary>
+            <param name="board"> board of type symbols</param>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.CreatePlayField">
+            <summary>
+            This method fill the filed with '?'
+            </summary>
+            <returns> return symbol matrix</returns>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.SetBombs">
+            <summary>
+            This method sets the bombs
+            </summary>
+            <returns>return matrix with symbols</returns>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.Calculations(System.Char[0:,0:])">
+            <summary>
+            This method make some calculations
+            </summary>
+            <param name="field"> matrix of type symbols</param>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Mines.HowMuch(System.Char[0:,0:],System.Int32,System.Int32)">
+            <summary>
+            This method shows the count of bombs around a cell
+            </summary>
+            <param name="field">field matrix</param>
+            <param name="row"> integer row</param>
+            <param name="coll"> integer column</param>
+            <returns>the count of mines around the cell</returns>
+        </member>
+        <member name="T:Task4RefactorAndImprove.Points">
+            <summary>
+            Points class
+            </summary>
+        </member>
+        <member name="F:Task4RefactorAndImprove.Points.name">
+            <summary>
+            name of the class
+            </summary>
+        </member>
+        <member name="F:Task4RefactorAndImprove.Points.point">
+            <summary>
+            points of the class
+            </summary>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Points.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Task4RefactorAndImprove.Points"/> class.
+            </summary>
+        </member>
+        <member name="M:Task4RefactorAndImprove.Points.#ctor(System.String,System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Task4RefactorAndImprove.Points"/> class.
+            </summary>
+            <param name="name">string name</param>
+            <param name="point"> integer point</param>
+        </member>
+        <member name="P:Task4RefactorAndImprove.Points.Name">
+            <summary>
+            Gets or sets name
+            </summary>
+        </member>
+        <member name="P:Task4RefactorAndImprove.Points.Point">
+            <summary>
+            Gets or sets points
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\bin\Debug\Event.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\bin\Debug\Event.exe
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\bin\Debug\Event.pdb
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\bin\Debug\PowerCollections.dll
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\obj\Debug\Event.exe
+c:\users\тито\documents\visual studio 2013\Projects\Kpk1\Event\obj\Debug\Event.pdb

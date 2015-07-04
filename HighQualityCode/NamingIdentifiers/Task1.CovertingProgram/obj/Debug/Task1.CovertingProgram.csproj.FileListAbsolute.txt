@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task1.CovertingProgram\bin\Debug\Task1.CovertingProgram.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task1.CovertingProgram\bin\Debug\Task1.CovertingProgram.exe
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task1.CovertingProgram\bin\Debug\Task1.CovertingProgram.pdb
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task1.CovertingProgram\obj\Debug\Task1.CovertingProgram.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task1.CovertingProgram\obj\Debug\Task1.CovertingProgram.exe
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task1.CovertingProgram\obj\Debug\Task1.CovertingProgram.pdb

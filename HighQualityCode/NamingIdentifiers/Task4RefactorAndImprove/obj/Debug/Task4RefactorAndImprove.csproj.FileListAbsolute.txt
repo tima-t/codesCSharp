@@ -1,0 +1,7 @@
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\bin\Debug\Task4RefactorAndImprove.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\bin\Debug\Task4RefactorAndImprove.exe
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\bin\Debug\Task4RefactorAndImprove.pdb
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\obj\Debug\Task4RefactorAndImprove.exe
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\obj\Debug\Task4RefactorAndImprove.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\obj\Debug\Task4RefactorAndImprove.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\NamingIdentifiers\Task4RefactorAndImprove\bin\Debug\Task4RefactorAndImprove.XML

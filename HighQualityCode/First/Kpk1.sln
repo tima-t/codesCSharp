@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Event\Events.csproj", "{92BCAEDC-C570-49E5-BD4D-56139F363A22}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WebApplication1", "WebApplication1\WebApplication1.vbproj", "{64683B4E-A222-4558-B57F-2496EE2B7775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BCAEDC-C570-49E5-BD4D-56139F363A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BCAEDC-C570-49E5-BD4D-56139F363A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BCAEDC-C570-49E5-BD4D-56139F363A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BCAEDC-C570-49E5-BD4D-56139F363A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64683B4E-A222-4558-B57F-2496EE2B7775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64683B4E-A222-4558-B57F-2496EE2B7775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64683B4E-A222-4558-B57F-2496EE2B7775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64683B4E-A222-4558-B57F-2496EE2B7775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

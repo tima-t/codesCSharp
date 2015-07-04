@@ -1,0 +1,7 @@
+c:\users\тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\bin\Debug\DocumentationOfTheCode.exe.config
+C:\Users\Тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\bin\Debug\DocumentationOfTheCode.XML
+C:\Users\Тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\obj\Debug\DocumentationOfTheCode.csprojResolveAssemblyReference.cache
+C:\Users\Тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\bin\Debug\DocumentationOfTheCode.exe
+C:\Users\Тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\bin\Debug\DocumentationOfTheCode.pdb
+C:\Users\Тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\obj\Debug\DocumentationOfTheCode.exe
+C:\Users\Тито\documents\visual studio 2013\Projects\DocumentationOfTheCode\DocumentationOfTheCode\obj\Debug\DocumentationOfTheCode.pdb

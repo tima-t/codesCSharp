@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task3JsMess\bin\Task3JsMess.dll.config
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task3JsMess\bin\Task3JsMess.dll
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task3JsMess\bin\Task3JsMess.pdb
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task3JsMess\obj\Debug\Task3JsMess.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task3JsMess\obj\Debug\Task3JsMess.dll
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task3JsMess\obj\Debug\Task3JsMess.pdb

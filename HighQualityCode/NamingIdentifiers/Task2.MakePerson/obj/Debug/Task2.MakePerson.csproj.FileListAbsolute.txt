@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task2.MakePerson\bin\Debug\Task2.MakePerson.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task2.MakePerson\bin\Debug\Task2.MakePerson.exe
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task2.MakePerson\bin\Debug\Task2.MakePerson.pdb
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task2.MakePerson\obj\Debug\Task2.MakePerson.csprojResolveAssemblyReference.cache
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task2.MakePerson\obj\Debug\Task2.MakePerson.exe
+c:\users\тито\documents\visual studio 2013\Projects\NamingIdentifiers\Task2.MakePerson\obj\Debug\Task2.MakePerson.pdb

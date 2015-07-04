@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentationOfTheCode</name>
+    </assembly>
+    <members>
+        <member name="T:DocumentationOfTheCode.StringExtensions">
+            <summary>
+            Class that add bonus extensions for the string
+            </summary>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Convert string to Hash Code
+            </summary>
+            <param name="input"> this is your string</param>
+            <returns> your input Hash code</returns> 
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Convert your string to boolean value
+            if contains true , ok , yes ,1 
+            </summary>
+            <param name="input">some string</param>
+            <returns> your string to boolean</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToShort(System.String)">
+            <summary>
+            Convert string to short if it is convertible
+            </summary>
+            <param name="input"> input of type string</param>
+            <returns>your string to short number</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Convert string to integer if it is convertible
+            </summary>
+            <param name="input">input of type string </param>
+            <returns>your string to integer number</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToLong(System.String)">
+            <summary>
+            Convert string to long number if it is convertible
+            </summary>
+            <param name="input">expect input of type string</param>
+            <returns>your string to long number</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            convert string to DateTime if it is possible
+            </summary>
+            <param name="input">expect input of type string</param>
+            <returns>your string to Date Time</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            This method makes the first letter Capital
+            </summary>
+            <param name="input">expect input of type string</param>
+            <returns> your string with capital first letter</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Get string between two sub strings
+            </summary>
+            <param name="input"> input of type string</param>
+            <param name="startString"> start substring </param>
+            <param name="endString">end substring</param>
+            <param name="startFrom"> index for beginning</param>
+            <returns>text of type string</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            This method converts cyrillic to Latin letters
+            </summary>
+            <param name="input">input of type string</param>
+            <returns>new converted string</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            This method converts latin to cyrillic letters
+            </summary>
+            <param name="input">input of type string</param>
+            <returns>new converted string</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            this method validates a Name
+            </summary>
+            <param name="input">expected some name</param>
+            <returns>returns valid name</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Return valid file name
+            </summary>
+            <param name="input"> expect file name</param>
+            <returns>valid file name of type string</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            this method gets the first characters of string
+            </summary>
+            <param name="input">some string</param>
+            <param name="charsCount">count of characters to get</param>
+            <returns>new string</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            this method gets the extension of a file
+            </summary>
+            <param name="fileName">expect file name with extension</param>
+            <returns> extension of the file</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToContentType(System.String)">
+            <summary>
+            this method shows what file contains using the extension
+            </summary>
+            <param name="fileExtension">expect extension of a file</param>
+            <returns>the content of the file</returns>
+        </member>
+        <member name="M:DocumentationOfTheCode.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Convert string to byte array
+            </summary>
+            <param name="input">some string</param>
+            <returns>byte array</returns>
+        </member>
+        <member name="T:DocumentationOfTheCode.Test">
+            <summary>
+            Static class for making the test
+            </summary>
+        </member>
+        <member name="M:DocumentationOfTheCode.Test.Main">
+            <summary>
+            The Main method of the Test
+            </summary>
+        </member>
+    </members>
+</doc>
