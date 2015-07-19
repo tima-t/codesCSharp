@@ -1,0 +1,5 @@
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\PrintStaistics\bin\Debug\PrintStaistics.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\PrintStaistics\bin\Debug\PrintStaistics.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\PrintStaistics\bin\Debug\PrintStaistics.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\PrintStaistics\obj\Debug\PrintStaistics.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\PrintStaistics\obj\Debug\PrintStaistics.pdb

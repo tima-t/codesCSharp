@@ -1,0 +1,6 @@
+c:\users\тито\documents\visual studio 2013\Projects\HighQualityCode-VariablesDataExpressions\ClassSizeInCSharp\bin\Debug\ClassSizeInCSharp.exe.config
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\ClassSizeInCSharp\bin\Debug\ClassSizeInCSharp.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\ClassSizeInCSharp\bin\Debug\ClassSizeInCSharp.pdb
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\ClassSizeInCSharp\obj\Debug\ClassSizeInCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\ClassSizeInCSharp\obj\Debug\ClassSizeInCSharp.exe
+C:\Users\Тито\Documents\Visual Studio 2013\Projects\HighQualityCode-VariablesDataExpressions\ClassSizeInCSharp\obj\Debug\ClassSizeInCSharp.pdb

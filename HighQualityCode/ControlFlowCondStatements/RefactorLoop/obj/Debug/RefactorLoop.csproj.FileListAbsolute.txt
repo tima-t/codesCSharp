@@ -1,0 +1,5 @@
+c:\users\тито\documents\visual studio 2013\Projects\ControlFlowCondStatements\RefactorLoop\bin\Debug\RefactorLoop.exe.config
+c:\users\тито\documents\visual studio 2013\Projects\ControlFlowCondStatements\RefactorLoop\bin\Debug\RefactorLoop.exe
+c:\users\тито\documents\visual studio 2013\Projects\ControlFlowCondStatements\RefactorLoop\bin\Debug\RefactorLoop.pdb
+c:\users\тито\documents\visual studio 2013\Projects\ControlFlowCondStatements\RefactorLoop\obj\Debug\RefactorLoop.exe
+c:\users\тито\documents\visual studio 2013\Projects\ControlFlowCondStatements\RefactorLoop\obj\Debug\RefactorLoop.pdb

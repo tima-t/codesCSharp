@@ -4,3 +4,9 @@ c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overvie
 c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\obj\Debug\CSS Overview.csprojResolveAssemblyReference.cache
 c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\obj\Debug\CSS Overview.dll
 c:\users\тито\documents\visual studio 2013\Projects\CSS Overview\CSS Overview\obj\Debug\CSS Overview.pdb
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\CssFoundamentals\CSS Overview\CSS Overview\bin\CSS Overview.dll.config
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\CssFoundamentals\CSS Overview\CSS Overview\bin\CSS Overview.dll
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\CssFoundamentals\CSS Overview\CSS Overview\bin\CSS Overview.pdb
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\CssFoundamentals\CSS Overview\CSS Overview\obj\Debug\CSS Overview.csprojResolveAssemblyReference.cache
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\CssFoundamentals\CSS Overview\CSS Overview\obj\Debug\CSS Overview.dll
+C:\Users\Тито\Desktop\Telerik\CodesCSharp\codesCSharp\CssFoundamentals\CSS Overview\CSS Overview\obj\Debug\CSS Overview.pdb
